@@ -1,0 +1,4 @@
+# 기존 sappun-netlify 폴더에 zip 압축 풀어서 덮어쓰기 후
+git add .
+git commit -m "env: SB 키 환경변수로 분리"
+git push
